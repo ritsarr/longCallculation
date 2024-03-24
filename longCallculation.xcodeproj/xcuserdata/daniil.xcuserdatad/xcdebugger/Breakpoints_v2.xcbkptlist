@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D53B8DCA-CF43-42F6-8CB2-0BBF2B37137C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95540BF1-718F-4ADA-8A7C-34990FC8CA05"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "longCallculation/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "num_reader(num)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "95540BF1-718F-4ADA-8A7C-34990FC8CA05 - 114b08a42627cb73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "num_creator"
+                  moduleName = "longCallculation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniil/Desktop/University/2%20Semester/Data%20Structures/longCallculation/longCallculation/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "95540BF1-718F-4ADA-8A7C-34990FC8CA05 - 114b08a42627cb73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "num_creator"
+                  moduleName = "longCallculation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniil/Desktop/University/2%20Semester/Data%20Structures/longCallculation/longCallculation/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DBC7522-5693-4619-AAFF-17DA756EBF89"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "longCallculation/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CAC8101-E9A2-41CA-866A-FF2EF45AA9A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "longCallculation/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "num_memory(num)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "6CAC8101-E9A2-41CA-866A-FF2EF45AA9A7 - 2dc23c507fb1ade8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "num_memory"
+                  moduleName = "longCallculation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniil/Desktop/University/2%20Semester/Data%20Structures/longCallculation/longCallculation/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "6CAC8101-E9A2-41CA-866A-FF2EF45AA9A7 - 2dc23c507fb1ade8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "num_memory"
+                  moduleName = "longCallculation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniil/Desktop/University/2%20Semester/Data%20Structures/longCallculation/longCallculation/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
